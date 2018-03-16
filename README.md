@@ -1,2 +1,0 @@
-# bubsyjenkins.github.io
-web
